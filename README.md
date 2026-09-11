@@ -1,4 +1,4 @@
-# Hi, I'm Vedran 👋
+# Hi, I'm Vedran
 
 ### Software Engineering Graduate
 
@@ -10,7 +10,7 @@ I enjoy building practical applications and learning new technologies through re
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 * **Languages:** JavaScript, Java, C#, Kotlin, SQL
 * **Frontend:** React
